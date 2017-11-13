@@ -1,4 +1,4 @@
-![Build](https://travis-ci.org/Skare69/SJM.svg?branch=master)
+[![Build status](https://travis-ci.org/Skare69/SJM.svg?branch=master)](https://travis-ci.org/Skare69/SJM)
 # SJM
 A simple Java microservice using the least dependencies possible. 
 
