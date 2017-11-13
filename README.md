@@ -1,5 +1,6 @@
-[![Build status](https://travis-ci.org/Skare69/SJM.svg?branch=master)](https://travis-ci.org/Skare69/SJM)
 # SJM
+[![Build status](https://travis-ci.org/Skare69/SJM.svg?branch=master)](https://travis-ci.org/Skare69/SJM)
+
 A simple Java microservice using the least dependencies possible. 
 
 # Motivation
