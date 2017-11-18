@@ -10,7 +10,7 @@ import javax.ws.rs.Path;
  * REST endpoint for testing.
  */
 @Stateless
-@Path("/")
+@Path("/test")
 public class TestResource {
     @GET
     public JsonObject testResponse() {
